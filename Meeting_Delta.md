@@ -1,3 +1,4 @@
+## [Part 1] 遇見 Delta
 創造者：deltacatalyzer\
 作者：Diretooth\
 翻譯：MichLeo\
