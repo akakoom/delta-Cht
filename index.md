@@ -5,7 +5,7 @@
  - 故事內容包含洗腦、催眠、身體改造、身分轉變、思想變化，以及自慰、性交等成人內容，\
 若無法接受請不要閱讀，在閱讀期間若感到不適請停止觀看。
 ---
- - [[Part 1] 遇見 Delta](Meeting_Delta.md)
+ - [[Part 1] 遇見 Delta](1_Meeting_Delta.md)
  - [[Part 2] Delta - 個人化]
  - [Part 3]
  - [Part 4]
