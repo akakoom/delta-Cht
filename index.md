@@ -1,4 +1,4 @@
-## Matrix №Δ 目錄
+## Diretooth 的 Matrix №Δ 小說翻譯 目錄
 
  - 此翻譯僅供閱覽，所有權歸角色的創作者與小說作者所有。
  - 若要轉傳，請註明原作者[Diretooth](https://www.furaffinity.net/user/diretooth/)與角色的創作者[deltacatalyzer](https://twitter.com/home)。
