@@ -1,6 +1,6 @@
 ## [Part 1] 遇見 Delta
-創造者：deltacatalyzer\
-作者：Diretooth\
+創造者：[deltacatalyzer](https://twitter.com/deltacatalyzer)\
+作者：[Diretooth](https://www.furaffinity.net/user/diretooth/)\
 翻譯：MichLeo\
 校稿：Dragon Feld、Luke Tors\
 此翻譯僅供閱覽，所有權歸角色的創作者與小說作者所有。\
