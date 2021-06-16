@@ -6,7 +6,7 @@
 若無法接受請不要閱讀，在閱讀期間若感到不適請停止觀看。
 ---
  - [[Part 1] 遇見 Delta](1_Meeting_Delta.md)
- - [Part 2] Delta - 個人化]
+ - [Part 2] Delta - 個人化
  - [Part 3]
  - [Part 4]
  - [Part 5]
