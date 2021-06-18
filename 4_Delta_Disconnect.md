@@ -1,4 +1,5 @@
 ##[Part 4] Delta - 斷開連線
+
 創造者：[deltacatalyzer](https://twitter.com/deltacatalyzer)\
 作者：[Diretooth](https://www.furaffinity.net/user/diretooth/)\
 翻譯：MichLeo\
