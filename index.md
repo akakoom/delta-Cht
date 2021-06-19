@@ -10,8 +10,8 @@
  - [[Part 1] 遇見 Delta](1_Meeting_Delta.md)
  - [[Part 2] Delta - 個人化](2_Delta_Customization.md)
  - [[Part 3] Delta - 增長](3_Delta_Accretion.md)
- - [Part 4] Delta - 斷開連線
- - [Part 5]
+ - [[Part 4] Delta - 斷開連線](4_Delta_Disconnect.md)
+ - [Part 5] Delta - 落差
  - [Part 6]
  - [Part 7]
  - [Part 8]
