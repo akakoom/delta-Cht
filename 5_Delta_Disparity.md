@@ -1,4 +1,4 @@
-## [Part 5] Delta - 差距
+## [Part 5] Delta - 落差
 創造者：[deltacatalyzer](https://twitter.com/deltacatalyzer)\
 作者：[Diretooth](https://www.furaffinity.net/user/diretooth/)\
 翻譯：MichLeo\
