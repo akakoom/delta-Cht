@@ -13,8 +13,8 @@
  - [[Part 4] Delta - 斷開連線](4_Delta_Disconnect.md)
  - [[Part 5] Delta - 落差](5_Delta_Disparity.md)
  - [[Part 6] Delta - 合成](6_Delta_Synthesis.md)
- - [Part 7] Delta - 實驗
- - [Part 8]
+ - [[Part 7] Delta - 實驗](7_Delta_Experiment.md)
+ - [Part 8] Delta - 墮落與合一
 
  --- 
 
