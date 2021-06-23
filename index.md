@@ -14,14 +14,14 @@
  - [[Part 5] Delta - 落差](5_Delta_Disparity.md)
  - [[Part 6] Delta - 合成](6_Delta_Synthesis.md)
  - [[Part 7] Delta - 實驗](7_Delta_Experiment.md)
- - [Part 8] Delta - 墮落與合一
+ - [[Part 8] Delta - 墮落與合一](8_Delta_Corruption&Integration.md)
 
  --- 
 
 ### 簡單前言
 因為很喜歡這部作品，於是去向作者要了翻譯的許可，\
 這是第一次翻譯短文，如果看起來潤得沒有很順，或是用詞或用字有誤還請見諒。\
-感謝這段時間陪我翻譯與校稿小精靈們，以及提供意見以及技術支援的：\
+感謝這段時間陪我翻譯與校稿小精靈們，以及提供意見和技術支援的：\
 蒼龍費爾德、戮月、歐塔德、卡薩爾、雷歐、麥貓、尼爾
 
 此作品在經過作者[Diretooth](https://www.furaffinity.net/user/diretooth/)以及角色的創作者[deltacatalyzer](https://twitter.com/deltacatalyzer)同意之後翻譯，發佈。
