@@ -14,7 +14,7 @@
  - [[Part 5] Delta - 落差](5_Delta_Disparity.md)
  - [[Part 6] Delta - 合成](6_Delta_Synthesis.md)
  - [[Part 7] Delta - 實驗](7_Delta_Experiment.md)
- - [[Part 8 fina…… Delta - 墮落與合一](8_Delta_Corruption&Integration.md)
+ - [\[Part 8 Fina…… Delta - 墮落與合一](8_Delta_Corruption&Integration.md)
 
  --- 
 
