@@ -24,6 +24,8 @@
 感謝這段時間陪我翻譯與校稿小精靈們，以及提供意見和技術支援的：\
 蒼龍費爾德、戮月、歐塔德、卡薩爾、雷歐、麥貓、尼爾
 
+[偷偷放一個心得](other_1.md)
+
 此作品在經過作者[Diretooth](https://www.furaffinity.net/user/diretooth/)以及角色的創作者[deltacatalyzer](https://twitter.com/deltacatalyzer)同意之後翻譯，發佈。
 ![圖片](https://user-images.githubusercontent.com/71741159/122041394-7d795d80-ce0b-11eb-8134-a8dfb1be0353.png)
 ![圖片](https://user-images.githubusercontent.com/71741159/122041435-866a2f00-ce0b-11eb-8b81-1a9e8593fd76.png)
