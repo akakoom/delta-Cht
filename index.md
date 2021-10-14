@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <meta charset="utf-8">
-<title>Redirecting to https://blog.akakoom.com/novel/Delta-Menu/</title>
+<title> Redirecting to https://blog.akakoom.com/novel/Delta-Menu/ </title>
 <meta http-equiv="refresh" content="0; URL=https://blog.akakoom.com/novel/Delta-Menu/">
 <link rel="canonical" href="https://blog.akakoom.com/novel/Delta-Menu/">
 <body style="text-align: center">
