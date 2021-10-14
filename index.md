@@ -1,3 +1,13 @@
+<!DOCTYPE html>
+<meta charset="utf-8">
+<title>Redirecting to https://blog.akakoom.com/novel/Delta-Menu/</title>
+<meta http-equiv="refresh" content="0; URL=https://blog.akakoom.com/novel/Delta-Menu/">
+<link rel="canonical" href="https://blog.akakoom.com/novel/Delta-Menu/">
+<body style="text-align: center">
+Redirecting to <a href="https://blog.akakoom.com/novel/Delta-Menu/">https://blog.akakoom.com/novel/Delta-Menu/</a>
+
+
+
 ## Diretooth 的 Matrix №Δ 小說翻譯 目錄
 
  - 此翻譯僅供閱覽，所有權歸角色的創作者與小說作者所有。
